@@ -1,0 +1,75 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" 
+"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<!-- Copyright (C) Bon Ton Vintage 2007, 2013 -->
+
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+  <head>
+    <title>Bon Ton Vintage</title>
+    <meta http-equiv="content-type" content="text/html; charset=iso-8859-1" />
+    <meta name="keywords" content="bon ton vintage antiques shopping shop shops stores store womens women mens men children clothes clothing forreston ellis county texas" />
+    <meta name="description" content="bon ton vintage about" />
+    <meta name="revision" content="0.01" />
+
+    <link rev="start" href="/index.html" title="Bon Ton Vintage Home Page" />
+    <link rel="stylesheet" type="text/css" href="bon_ton_style.css" />
+  </head>
+  <body>
+<!-- Begin Google Analytics Code -->
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-16550488-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+<!-- End Google Analytics Code -->
+
+    <!-- Begin Wrapper -->
+    <div id="wrapper">
+      <!-- Begin Header -->
+      <div id="header">
+        <a href="index.shtml">
+        <img src="images/logo.gif" width="450" height="150" alt="Bon Ton Logo" /> </a>
+      </div>
+      <!-- End Header -->
+      <!--#include virtual="menu.html" -->
+      <!-- Begin Content -->
+      <div id="content">
+        <div class="floatright">
+          <img alt="Boy" src="images/boy.jpg" />
+        </div>
+        <h1>All About the Bon Ton</h1>
+        <p>Founded in 1984 by retired jazz musicians Barbra and John Kauffman, Bon Ton Vintage provides the vintage shopper with a unique experience not found in big city markets.</p>
+        <p>
+          <a href="johnkauffman.shtml">John passed away on June 18, 2013</a>. Johnnie, we're going to miss you! 
+        </p>
+        <p>
+          Some of their <a href="music.shtml">music</a> is available <a href="music.shtml">here</a>. 
+        </p>
+
+        <div class="floatright">
+          <a href="http://www.rootsweb.com/~txellis/photos/forreston_tx.htm" target="_blank">
+          <img src="http://www.rootsweb.com/~txellis/photos/forreston_tx_3.jpg" border="0" alt="Forreston Store" /></a><br />
+          <sub>Forreston Store circa 1912 (<a href="http://www.rootsweb.com/~txellis/photos/forreston_tx.htm" target="_blank">
+          RootsWeb.com</a>)</sub><br />
+        </div>
+        <div class="floatright">
+          <img alt="John and Barbra in their musician days" src="images/John_and_Barb.jpg" /><br />
+          <sub>John and Barbra in their days as musicians (photo by Andy Hanson).</sub>
+        </div>
+        <div class="clearFloat"></div>
+      </div>
+      <!-- End Content -->
+      <!--#include virtual="footer.html" -->
+    </div>
+    <!-- End Wrapper -->
+
+  </body>
+</html>

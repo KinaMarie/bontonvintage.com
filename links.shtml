@@ -1,0 +1,60 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" 
+"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<!-- Copyright (C) Bon Ton Vintage 2007-2013 -->
+
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+  <head>
+    <title>Bon Ton Vintage</title>
+    <meta http-equiv="content-type" content="text/html; charset=iso-8859-1" />
+    <meta name="keywords" content="bon ton vintage antiques shopping shop shops stores store womens women mens men children clothes clothing forreston ellis county texas" />
+    <meta name="description" content="bon ton vintage related links" />
+    <meta name="revision" content="0.01" />
+
+    <link rev="start" href="/index.html" title="Bon Ton Vintage Home Page" />
+    <link rel="stylesheet" type="text/css" href="bon_ton_style.css" />
+  </head>
+  <body>
+<!-- Begin Google Analytics Code -->
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-16550488-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+<!-- End Google Analytics Code -->
+
+    <!-- Begin Wrapper -->
+    <div id="wrapper">
+      <!-- Begin Header -->
+      <div id="header">
+        <a href="index.shtml">
+        <img src="images/logo.gif" width="450" height="150" alt="Bon Ton Logo" /> </a>
+      </div>
+      <!-- End Header -->
+      <!--#include virtual="menu.html" -->
+      <!-- Begin Content -->
+      <div id="content">
+        <img alt="Dress" src="images/dress.jpg" class="floatright"/>
+        <h1>Interesting Links</h1>
+        <p>
+          <a href="http://www.tshaonline.org/handbook/online/articles/hlf22" target="_blank">Forreston, TX</a> at The Handbook of Texas Online.<br />
+					<a href="http://en.wikipedia.org/wiki/Forreston,_Texas" target="_blank">Forreston, TX</a> at Wikipedia.<br />
+          <a href="http://www.productionhub.com" target="_blank">ProductionHUB.com - guide, directory and jobs for film and video</a><br />
+        </p>
+        <div class="clearFloat"></div>
+      </div>
+      <!-- End Content -->
+      <!--#include virtual="footer.html" -->
+    </div>
+    <!-- End Wrapper -->
+
+  </body>
+</html>

@@ -1,0 +1,153 @@
+/* bon_ton_style.css 
+   Copyright (C) Bon Ton Vintage 2013
+   Version 0.02 */
+
+body {
+ background-image: url("images/bon_ton_background.jpg");
+ display: block;
+ margin: 8px;
+ font-family: Georgia, "Times New Roman", Times, serif;
+}
+
+p, dl {
+ display: block;
+ margin: 1em 0;
+}
+
+h1 {
+ display: block;
+ font-size: 1.75em;
+ font-weight: bold;
+ margin: .67em 0;
+}
+
+h2 {
+ display: block;
+ font-size: 1.25em;
+ font-weight: bold;
+ margin: .83em 0;
+}
+
+h3 {
+ display: block;
+ font-size: 1.10em;
+ font-weight: bold;
+ margin: 1em 0;
+}
+
+img {
+ border: 0px;
+}
+
+#splash {
+ margin: 0 auto;
+ width: 600px;
+ text-align: left;
+}
+
+#wrapper { 
+ margin: 0 auto;
+ width: 772px;
+}
+
+#header {
+ width: 750px;
+ padding: 10px;
+ border: 0px;
+ margin-bottom: 0px;
+ margin-left: 0px;
+ margin-right: 0px;
+ margin-top: 0px;
+}
+
+#navigation {
+ width: 750px;
+ padding: 10px;
+ border: 0px;
+ margin-bottom: 0px;
+ margin-left: 0px;
+ margin-right: 0px;
+ margin-top: 0px;
+ font-family: Helvetica, Geneva, Arial, SunSans-Regular, sans-serif;
+ font-size: 1.25em;
+ font-weight: bold;
+}
+
+#content { 
+ width: 750px;
+ padding: 10px;
+ border: 0px;
+ margin-bottom: 0px;
+ margin-left: 0px;
+ margin-right: 0px;
+ margin-top: 0px;
+ background: white;
+}
+
+#blank {
+ width: 700px;
+ padding: 10px;
+ border: 0px;
+ margin-bottom: 0px;
+ margin-left: 0px;
+ margin-right: 0px;
+ margin-top: 0px;
+ background: white;
+}
+
+#footer { 
+ width: 750px;
+ padding: 10px;
+ border: 0px;
+ margin-bottom: 0px;
+ margin-left: 0px;
+ margin-right: 0px;
+ margin-top: 10px;
+ font-size: 0.7em;
+ text-align: right;
+}
+
+#webRingFooter { 
+ width: 750px;
+ padding: 10px;
+ border: 0px;
+ margin-bottom: 0px;
+ margin-left: 0px;
+ margin-right: 0px;
+ margin-top: 10px;
+ font-size: 0.7em;
+ text-align: center;
+}
+
+table#press {
+}
+
+table#press td {
+ padding: 25px;
+ vertical-align: top;
+}
+
+.floatleft {
+ float: left;
+ margin-bottom: 10px;
+ margin-left: 0px;
+ margin-right: 10px;
+ margin-top: 10px;
+}
+
+.floatright {
+ float: right;
+ margin-bottom: 10px;
+ margin-left: 10px;
+ margin-right: 0px;
+ margin-top: 10px;
+}
+
+.clearFloat {
+    font-size: 0px;
+    line-height: 0px;
+    margin: 0px;
+    padding: 0px;
+    clear: both;
+    height: 0px;
+}

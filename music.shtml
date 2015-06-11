@@ -1,0 +1,174 @@
+<!DOCTYPE html>
+<!--
+Copyright (C) Bon Ton Vintage 2007-2013
+Version 0.02
+Updated Dec. 16, 2013
+-->
+
+<html lang="en">
+<head>
+    <title>Bon Ton Vintage</title>
+    <meta charset="UTF-8">
+    <meta content="Chris Kauffman" name="author">
+    <meta content=
+    "bon ton vintage antiques shopping shop shops stores store womens women mens men children clothes clothing forreston ellis county texas"
+    name="keywords">
+    <meta content="bon ton vintage music" name="description">
+    <link href="bon_ton_style.css" rel="stylesheet" type="text/css">
+
+    <!-- Facebook Entries -->
+    <meta property="og:image" content="http://www.bontonvintage.com/images/Barbra_John_Joe.jpg">
+    <meta property="og:title" content="Bon Ton Vintage Music">
+    <meta property="og:description" content=
+    "Listen to the sounds of Barbra, John and Joe Lively. Music provided by one of Texas' favorite vintage stores, with 20th century clothes for men, women and children.">
+    <meta property="og:url" content="http://www.bontonvintage.com/music.shtml">
+</head>
+
+<body>
+    <!--#include virtual="google_analytics.html" -->
+    <!-- Begin Wrapper -->
+
+    <div id="wrapper">
+        <!-- Begin Header -->
+
+        <div id="header">
+            <a href="index.shtml"><img alt="Bon Ton Logo" height="150" src=
+            "images/logo.gif" width="450"></a>
+        </div><!-- End Header -->
+        <!--#include virtual="menu.html" -->
+        <!-- Begin Content -->
+
+        <div id="content">
+            <img height="400" alt="Barbra, John and Joe" class="floatright"
+            src="images/Barbra_John_Joe.jpg">
+
+            <h1>Music</h1>
+
+            <h2>On the Job<br>
+            with Barbra, John and Joe</h2>
+
+            <p>Piano and Vocals: Barbra Kauffman<br>
+            Drums: John Kauffman<br>
+            Electric Bass and Sousaphone: Joe Lively<br></p>
+
+            <ol>
+                <li><!--<a href="music/01_Where_or_When.mp3">Where or When</a><br>
+                <audio controls=""><source src="music/01_Where_or_When.mp3"
+                type="audio/mpeg">-->
+	        <a href=
+	        "https://dl.dropboxusercontent.com/u/14350719/barbra%2C%20john%2C%20and%20joe/On%20the%20Job%20with%20Barbra%2C%20John%2C%20and%20Joe/01%20Where%20or%20When%20(Third%20Set).mp3">
+	        Where or When</a><br><audio controls=""><source src=
+	        "https://dl.dropboxusercontent.com/u/14350719/barbra%2C%20john%2C%20and%20joe/On%20the%20Job%20with%20Barbra%2C%20John%2C%20and%20Joe/01%20Where%20or%20When%20(Third%20Set).mp3"
+                type="audio/mpeg"> Your browser does not support this audio
+                format.</audio></li>
+
+                <li><!--<a href="music/02_A_Boreback_Instrumental_Medley.mp3">A
+                Boreback Instrumental Medley</a><br>
+                <audio controls=""><source src=
+                "music/02_A_Boreback_Instrumental_Medley.mp3" type=
+                "audio/mpeg">-->
+		<a href=
+		"https://dl.dropboxusercontent.com/u/14350719/barbra%2C%20john%2C%20and%20joe/On%20the%20Job%20with%20Barbra%2C%20John%2C%20and%20Joe/02%20A%20Boreback%20Instrumental%20Medley.mp3">
+		A Boreback Instrumental Medley</a><br>
+                <audio controls=""><source src=
+                "https://dl.dropboxusercontent.com/u/14350719/barbra%2C%20john%2C%20and%20joe/On%20the%20Job%20with%20Barbra%2C%20John%2C%20and%20Joe/02%20A%20Boreback%20Instrumental%20Medley.mp3"
+		type="audio/mpeg"> Your browser does not support this audio
+                format.</audio></li>
+
+                <li><!--<a href="music/03_I_Dont_Know_Why.mp3">I Don't Know Why (a
+                graceful continuance)</a><br>
+                <audio controls=""><source src="music/03_I_Dont_Know_Why.mp3"
+                type="audio/mpeg">-->
+		<a href=
+		"https://dl.dropboxusercontent.com/u/14350719/barbra%2C%20john%2C%20and%20joe/On%20the%20Job%20with%20Barbra%2C%20John%2C%20and%20Joe/03%20I%20Don't%20Know%20Why%20(a%20graceful%20continuance).mp3">
+		I Don't Know Why (a graceful continuance)</a><br>
+                <audio controls=""><source src=
+		"https://dl.dropboxusercontent.com/u/14350719/barbra%2C%20john%2C%20and%20joe/On%20the%20Job%20with%20Barbra%2C%20John%2C%20and%20Joe/03%20I%20Don't%20Know%20Why%20(a%20graceful%20continuance).mp3"
+                type="audio/mpeg"> Your browser does not support this audio
+                format.</audio></li>
+
+                <li><!--<a href="music/04_My_Blue_Heaven_Whos_Sorry_Now.mp3">My
+                Blue Heaven/Who's Sorry Now</a><br>
+                <audio controls=""><source src=
+                "music/04_My_Blue_Heaven_Whos_Sorry_Now.mp3" type="audio/mpeg">-->
+                <a href=
+		"https://dl.dropboxusercontent.com/u/14350719/barbra%2C%20john%2C%20and%20joe/On%20the%20Job%20with%20Barbra%2C%20John%2C%20and%20Joe/04%20My%20Blue%20Heaven%20_%20Who's%20Sorry%20Now.mp3">
+		My Blue Heaven/Who's Sorry Now</a><br>
+                <audio controls=""><source src=
+                "https://dl.dropboxusercontent.com/u/14350719/barbra%2C%20john%2C%20and%20joe/On%20the%20Job%20with%20Barbra%2C%20John%2C%20and%20Joe/04%20My%20Blue%20Heaven%20_%20Who's%20Sorry%20Now.mp3"
+                type="audio/mpeg"> Your browser does not support this audio
+		format.</audio></li>
+
+                <li><!--<a href="music/05_I_Wish_You_Love.mp3">I Wish You
+                Love</a><br>
+                <audio controls=""><source src="music/05_I_Wish_You_Love.mp3"
+                type="audio/mpeg">-->
+		<a href=
+		"https://dl.dropboxusercontent.com/u/14350719/barbra%2C%20john%2C%20and%20joe/On%20the%20Job%20with%20Barbra%2C%20John%2C%20and%20Joe/05%20I%20Wish%20You%20Love.mp3">
+		I Wish You Love</a><br>
+                <audio controls=""><source src=
+		"https://dl.dropboxusercontent.com/u/14350719/barbra%2C%20john%2C%20and%20joe/On%20the%20Job%20with%20Barbra%2C%20John%2C%20and%20Joe/05%20I%20Wish%20You%20Love.mp3"
+                type="audio/mpeg"> Your browser does not support this audio
+                format.</audio></li>
+
+                <li><!--<a href="music/06_Deed_I_Do.mp3">Deed I Do</a><br>
+                <audio controls=""><source src="music/06_Deed_I_Do.mp3" type=
+                "audio/mpeg">-->
+		<a href=
+		"https://dl.dropboxusercontent.com/u/14350719/barbra%2C%20john%2C%20and%20joe/On%20the%20Job%20with%20Barbra%2C%20John%2C%20and%20Joe/06%20Deed%20I%20Do.mp3">
+		Deed I Do</a><br>
+                <audio controls=""><source src=
+		"https://dl.dropboxusercontent.com/u/14350719/barbra%2C%20john%2C%20and%20joe/On%20the%20Job%20with%20Barbra%2C%20John%2C%20and%20Joe/06%20Deed%20I%20Do.mp3"
+		type="audio/mpeg"> Your browser does not support this audio
+                format.</audio></li>
+
+                <li><!--<a href=
+                "music/07_Moonglow_How_Come_You_Do_Me_Hurry_On_Down.mp3">Moonglow/How
+                Come You Do Me/Hurry On Down</a><br>
+                <audio controls=""><source src=
+                "music/07_Moonglow_How_Come_You_Do_Me_Hurry_On_Down.mp3" type=
+                "audio/mpeg">-->
+		<a href=
+                "https://dl.dropboxusercontent.com/u/14350719/barbra%2C%20john%2C%20and%20joe/On%20the%20Job%20with%20Barbra%2C%20John%2C%20and%20Joe/07%20Moonglow%20_%20How%20Come%20You%20Do%20Me%20_%20Hurry%20On%20Down.mp3">
+		Moonglow/How Come You Do Me/Hurry On Down</a><br>
+                <audio controls=""><source src=
+                "https://dl.dropboxusercontent.com/u/14350719/barbra%2C%20john%2C%20and%20joe/On%20the%20Job%20with%20Barbra%2C%20John%2C%20and%20Joe/07%20Moonglow%20_%20How%20Come%20You%20Do%20Me%20_%20Hurry%20On%20Down.mp3"
+		type="audio/mpeg" Your browser does not support this audio
+                format.</audio></li>
+
+                <li><!--<a href="music/08_Green_Eyes_Crazy_Rythm.mp3">Green
+                Eyes/Crazy Rythm</a><br>
+                <audio controls=""><source src=
+                "music/08_Green_Eyes_Crazy_Rythm.mp3"
+                type="audio/mpeg">-->
+		<a href=
+		"https://dl.dropboxusercontent.com/u/14350719/barbra%2C%20john%2C%20and%20joe/On%20the%20Job%20with%20Barbra%2C%20John%2C%20and%20Joe/08%20Green%20Eyes%20_%20Crazy%20Rythm.mp3">
+		Green Eyes/Crazy Rythm</a><br>
+                <audio controls=""><source src=
+                "https://dl.dropboxusercontent.com/u/14350719/barbra%2C%20john%2C%20and%20joe/On%20the%20Job%20with%20Barbra%2C%20John%2C%20and%20Joe/08%20Green%20Eyes%20_%20Crazy%20Rythm.mp3"
+		type="audio/mpeg">Your browser does not support this audio
+		format.</audio></li>
+            </ol>
+
+            <p>All selections were performed live in Dallas, Texas circa
+            1970s.</p>
+
+            <h2>Miscellaneous</h2>
+
+            <p><!--<a href="music/Bill_Bailey.m4a">Bill Bailey</a><br>
+            <audio controls=""><source src="music/Bill_Bailey.m4a" type=
+            "audio/mp4">-->
+	    <a href=
+	    "https://dl.dropboxusercontent.com/u/14350719/Barbra%2C%20John%2C%20and%20Joe/Bill%20Bailey.m4a">
+	    Bill Bailey</a><br>
+            <audio controls=""><source src=
+	    "https://dl.dropboxusercontent.com/u/14350719/Barbra%2C%20John%2C%20and%20Joe/Bill%20Bailey.m4a"
+	    type="audio/mp4"> Your browser does not support this audio
+            format.</audio></p>
+
+            <div class="clearFloat"></div>
+        </div><!-- End Content -->
+        <!--#include virtual="footer.html" -->
+    </div><!-- End Wrapper -->
+</body>
+</html>

@@ -1,0 +1,68 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" 
+"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<!-- Copyright (C) Bon Ton Vintage 2007 -->
+
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+  <head>
+    <title>Bon Ton Vintage</title>
+    <meta http-equiv="content-type" content="text/html; charset=iso-8859-1" />
+    <meta name="keywords" content="bon ton vintage antiques shopping shop shops stores store womens women mens men children clothes clothing forreston ellis county texas" />
+    <meta name="description" content="bon ton vintage directions" />
+    <meta name="revision" content="0.01" />
+
+    <link rev="start" href="/index.html" title="Bon Ton Vintage Home Page" />
+    <link rel="stylesheet" type="text/css" href="bon_ton_style.css" />
+  </head>
+  <body>
+<!-- Begin Google Analytics Code -->
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-16550488-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+<!-- End Google Analytics Code -->
+
+    <!-- Begin Wrapper -->
+    <div id="wrapper">
+      <!-- Begin Header -->
+      <div id="header">
+        <a href="index.shtml">
+        <img src="images/logo.gif" width="450" height="150" alt="Bon Ton Logo" /> </a>
+      </div>
+      <!-- End Header -->
+      <!--#include virtual="menu.html" -->
+      <!-- Begin Content -->
+      <div id="content">
+        <h1>Come See Us</h1>
+        <p>
+          Please stop by our store in Forreston, Texas for a truly unique shopping experience. If you miss us, you can <a href="eshop/"><strong><em>shop online</em></strong></a> any time.
+        </p>
+        <h2>Hours</h2>
+        <p>
+          Thursday, Friday, Saturday, and Sunday<br />
+          12:00 PM to 4:30 PM
+        </p>
+        <h2>Directions</h2>
+        <p>
+          The Bon Ton is located on the corner of U.S. Highway 77 and Main Street in Forreston, Texas just south of Waxahachie.
+          Forreston is easily accessible from Interstate 35 by heading east on Forreston Road at exit 391. Additional driving directions are available from <a href="https://www.google.com/maps/preview#!q=124+Highway+77%2C+Forreston%2C+Texas&data=!4m10!1m9!4m8!1m3!1d250577!2d-96.8571664!3d32.3389391!3m2!1i1215!2i892!4f13.1" target="_blank">Google Maps</a>.
+        </p>
+        <img src="images/bon_ton_map.gif" width="600" height="480" alt="Bon Ton Map" />
+        <div class="clearFloat"></div>
+      </div>
+      <!-- End Content -->
+      <!--#include virtual="footer.html" -->
+   </div>
+    <!-- End Wrapper -->
+
+  </body>
+</html>
