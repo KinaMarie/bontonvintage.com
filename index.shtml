@@ -55,8 +55,8 @@
         <h1>Welcome to Bon Ton Vintage Clothes</h1>
         <p>
           One of Texas' favorite vintage stores, with 20th century clothes for men, women and children.<br />
-          <br />
-          Now with <a href="eshop/"><strong><em>online shopping</em></strong></a>!<br />
+          <!--<br />
+          Now with <a href="eshop/"><strong><em>online shopping</em></strong></a>!<br />-->
           <br />
           We're open every Thursday through Sunday from 12:00 PM to 4:30 PM. Please <a href="directions.shtml">stop by</a>.
         </p>
