@@ -1,6 +1,8 @@
 # robots.txt for http://www.bontonvintage.com/
 
 User-agent: *
+Disallow:  /.git*
+Disallow:  /README*
 Disallow:  /cgi-bin/
 Disallow:  /400.shtml
 Disallow:  /401.shtml
