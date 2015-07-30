@@ -3,15 +3,8 @@
 User-agent: *
 Disallow:  /.git*
 Disallow:  /README*
-Disallow:  /cgi-bin/
-Disallow:  /400.shtml
-Disallow:  /401.shtml
-Disallow:  /403.shtml
-Disallow:  /404.shtml
-Disallow:  /500.shtml
 Disallow:  /footer.html
 Disallow:  /google*
 Disallow:  /menu.html
 Disallow:  /webring.html
-Disallow:  /*.css
 Disallow:  /*.ini
