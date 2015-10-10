@@ -1,0 +1,191 @@
+Photos from Ann Street Studio http://annstreetstudio.tumblr.com
+
+Originally posted on June 16, 2010 at http://annstreetstudio.tumblr.com/post/704849953/with-love-bon-ton-vintage
+
+Used with permission from Jamie Beck. Authorization provided via email on July 29, 205 by Jamie Beck.
+
+Email Contents:
+
+Delivered-To: chriskauffman@vollgas.net
+Received: by 10.194.127.7 with SMTP id nc7csp23958wjb;
+        Wed, 29 Jul 2015 11:03:39 -0700 (PDT)
+X-Received: by 10.13.207.1 with SMTP id r1mr43682816ywd.116.1438193018803;
+        Wed, 29 Jul 2015 11:03:38 -0700 (PDT)
+Return-Path: <jamie@annstreetstudio.com>
+Received: from mail-yk0-f178.google.com (mail-yk0-f178.google.com. [209.85.160.178])
+        by mx.google.com with ESMTPS id v203si19488142ywe.107.2015.07.29.11.03.38
+        for <chriskauffman@vollgas.net>
+        (version=TLSv1.2 cipher=ECDHE-RSA-AES128-GCM-SHA256 bits=128/128);
+        Wed, 29 Jul 2015 11:03:38 -0700 (PDT)
+Received-SPF: softfail (google.com: domain of transitioning jamie@annstreetstudio.com does not designate 209.85.160.178 as permitted sender) client-ip=209.85.160.178;
+Authentication-Results: mx.google.com;
+       spf=softfail (google.com: domain of transitioning jamie@annstreetstudio.com does not designate 209.85.160.178 as permitted sender) smtp.mail=jamie@annstreetstudio.com
+Received: by ykba194 with SMTP id a194so14637492ykb.0
+        for <chriskauffman@vollgas.net>; Wed, 29 Jul 2015 11:03:38 -0700 (PDT)
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20130820;
+        h=x-gm-message-state:mime-version:in-reply-to:references:from:date
+         :message-id:subject:to:cc:content-type;
+        bh=SG+VDd2nJQWCeBZ0s7wDAADsVBHAuoONAE10T3XOmRE=;
+        b=h0EhWHRxVz4X4OJ3Czcq/JuZTWbJnozRJmcQB1XW1FrR53oi7Ow/T7HJuSl0cgj/x/
+         0otB2l1dIKTDno7SQpzbbGF3+Zr11M0XV66DmNOFpVFUhBjvdxRK14mLeALPWcbUa6a0
+         2JZG0udQpkdrivlm9HjEVIbJkkYfqTxW/zEbfVbxPhlOty7T02qyVQU3sio3zlV1m9V9
+         xumAvr6MYQyjYjXsFy9WIlkxjWhFaSgfXPmyNmlXCTCNuaY0RlrpOfzpKtYYmvV1Sbyy
+         MtKk297DLU8XV9wBavjpTZlviSrcOGMFRpUwJAy6ebZR3n9yQ9Ko5DkMzpSwNex1lDNr
+         hJLA==
+X-Gm-Message-State: ALoCoQl72OpMKMPi2fJl09leHxduEMGkZlzm/Y17ZI7KV3tziZhgGew0FEtUkSENxrCaZ1WqczR/
+X-Received: by 10.13.219.198 with SMTP id d189mr47211891ywe.140.1438193017888;
+        Wed, 29 Jul 2015 11:03:37 -0700 (PDT)
+Return-Path: <jamie@annstreetstudio.com>
+Received: from mail-yk0-f178.google.com (mail-yk0-f178.google.com. [209.85.160.178])
+        by smtp.gmail.com with ESMTPSA id r205sm24413605ywr.25.2015.07.29.11.03.36
+        for <chriskauffman@vollgas.net>
+        (version=TLSv1.2 cipher=ECDHE-RSA-AES128-GCM-SHA256 bits=128/128);
+        Wed, 29 Jul 2015 11:03:36 -0700 (PDT)
+Received: by ykax123 with SMTP id x123so14586497yka.1
+        for <chriskauffman@vollgas.net>; Wed, 29 Jul 2015 11:03:35 -0700 (PDT)
+X-Received: by 10.170.92.84 with SMTP id j81mr26312707yka.37.1438193015957;
+ Wed, 29 Jul 2015 11:03:35 -0700 (PDT)
+MIME-Version: 1.0
+Received: by 10.129.36.1 with HTTP; Wed, 29 Jul 2015 11:03:16 -0700 (PDT)
+In-Reply-To: <CAM9rMW4LFzS9J_zc3+qf-3+AfiVgDXLfKNymZ1WtSF4r0sDyZw@mail.gmail.com>
+References: <CAM9rMW4LFzS9J_zc3+qf-3+AfiVgDXLfKNymZ1WtSF4r0sDyZw@mail.gmail.com>
+From: Jamie Beck <jamie@annstreetstudio.com>
+Date: Wed, 29 Jul 2015 14:03:16 -0400
+Message-ID: <CABSPYHdSYOvDWbe7kDTZdc6J_FY_Az3JvJhEeQHqaeowo1SnGg@mail.gmail.com>
+Subject: Re: Bon Ton Vintage Photos
+To: Chris Kauffman <chriskauffman@vollgas.net>
+Cc: Kevin Burg <KEVIN@annstreetstudio.com>, Barbra Kauffman <bontonvintage@gmail.com>
+Content-Type: multipart/alternative; boundary=001a113a8c1ad5b4ff051c0767f0
+
+--001a113a8c1ad5b4ff051c0767f0
+Content-Type: text/plain; charset=UTF-8
+
+Hi Chris,
+
+No problem!
+
+Xx
+
+On Wed, Jul 29, 2015 at 9:53 AM, Chris Kauffman <chriskauffman@vollgas.net>
+wrote:
+
+> I am helping my Aunt Barbra with her website and web presence. Would you
+> be willing to give Barbra permission to use some of your wonderful photos
+> of her shop?
+>
+> In particular, I would like to use some of the photos in the Tumblr post:
+> http://annstreetstudio.tumblr.com/post/704849953/with-love-bon-ton-vintage
+>
+> Uses:
+> Website, Google+
+> www.bontonvintage.com
+> www.lapetitebonton.com
+>
+> I don't think Barbra is planning any print advertising that would need the
+> photos, so this is web-only.
+>
+> I think we are open to any restrictions, etc. We would certainly attribute
+> the work to you or anyone else we should.
+>
+> Please let me know if you have any questions.
+>
+> --
+> Chris Kauffman
+>
+> chriskauffman@vollgas.net
+> +1 (512) 815-5800
+>
+
+
+
+-- 
+PLEASE NOTE A CHANGE OF ADDRESS IN THE SIGNATURE BELOW
+
+Jamie Beck
+Photographer, co-creator of the Cinemagraph
+blog <http://annstreetstudio.com/> | tweets
+<http://twitter.com/_frommetoyou> | cinemagraphs <http://cinemagraphs.com/>
+| instagrams <http://web.stagram.com/n/_frommetoyou/> | facebook
+<https://www.facebook.com/AnnStreetStudio?ref=hl>
+<http://web.stagram.com/n/_frommetoyou/>
+*Ann Street Studio*
+*139 Fulton Street, Suite 810*
+*New York, NY 10038*
+Management | DBA <http://thedigitalbrandarchitects.com/>
+
+--001a113a8c1ad5b4ff051c0767f0
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+<div dir=3D"ltr">Hi Chris,<div><br></div><div>No problem!=C2=A0</div><div><=
+br></div><div>Xx</div></div><div class=3D"gmail_extra"><br><div class=3D"gm=
+ail_quote">On Wed, Jul 29, 2015 at 9:53 AM, Chris Kauffman <span dir=3D"ltr=
+">&lt;<a href=3D"mailto:chriskauffman@vollgas.net" target=3D"_blank">chrisk=
+auffman@vollgas.net</a>&gt;</span> wrote:<br><blockquote class=3D"gmail_quo=
+te" style=3D"margin:0 0 0 .8ex;border-left:1px #ccc solid;padding-left:1ex"=
+><div dir=3D"ltr">I am helping my Aunt Barbra with her website and web pres=
+ence. Would you be willing to give Barbra permission to use some of your wo=
+nderful photos of her shop?<div><br></div><div>In particular, I would like =
+to use some of the photos in the Tumblr post:=C2=A0<a href=3D"http://annstr=
+eetstudio.tumblr.com/post/704849953/with-love-bon-ton-vintage" target=3D"_b=
+lank">http://annstreetstudio.tumblr.com/post/704849953/with-love-bon-ton-vi=
+ntage</a></div><div><br></div><div>Uses:</div><div>Website, Google+</div><d=
+iv><a href=3D"http://www.bontonvintage.com" target=3D"_blank">www.bontonvin=
+tage.com</a></div><div><a href=3D"http://www.lapetitebonton.com" target=3D"=
+_blank">www.lapetitebonton.com</a></div><div><br></div><div>I don&#39;t thi=
+nk Barbra is planning any print advertising that would need the photos, so =
+this is web-only.</div><div><br></div><div>I think we are open to any restr=
+ictions, etc. We would certainly attribute the work to you or anyone else w=
+e should.</div><div><br></div><div>Please let me know if you have any quest=
+ions.<span class=3D"HOEnZb"><font color=3D"#888888"><br clear=3D"all"><div>=
+<br></div>-- <br><div><div dir=3D"ltr">Chris Kauffman<br><br><a href=3D"mai=
+lto:chriskauffman@vollgas.net" target=3D"_blank">chriskauffman@vollgas.net<=
+/a><br><a href=3D"tel:%2B1%20%28512%29%20815-5800" value=3D"+15128155800" t=
+arget=3D"_blank">+1 (512) 815-5800</a></div></div>
+</font></span></div></div>
+</blockquote></div><br><br clear=3D"all"><div><br></div>-- <br><div class=
+=3D"gmail_signature"><div dir=3D"ltr"><div><div dir=3D"ltr"><span style=3D"=
+font-family:arial,sans-serif;font-size:13px;border-collapse:collapse"><span=
+ style=3D"font-family:arial,sans-serif;font-size:13px"><div>PLEASE NOTE A C=
+HANGE OF ADDRESS IN THE SIGNATURE BELOW</div><div><br></div><div><font face=
+=3D"georgia, serif"><span style=3D"font-size:small"><font color=3D"#666666"=
+>Jamie Beck</font></span><font color=3D"#666666">=C2=A0</font></font><div><=
+font face=3D"georgia, serif"><font color=3D"#666666">Photographer, co-creat=
+or of the Cinemagraph</font></font></div><div><font color=3D"#666666"><font=
+ face=3D"georgia, serif"></font></font><a href=3D"http://annstreetstudio.co=
+m/" target=3D"_blank"><font face=3D"georgia, serif"><font color=3D"#666666"=
+>blog</font></font></a><font face=3D"georgia, serif"><font color=3D"#666666=
+">=C2=A0|=C2=A0</font></font><a href=3D"http://twitter.com/_frommetoyou" ta=
+rget=3D"_blank"><font face=3D"georgia, serif"><font color=3D"#666666">tweet=
+s</font></font></a><font face=3D"georgia, serif"><font color=3D"#666666">=
+=C2=A0|=C2=A0</font></font><a href=3D"http://cinemagraphs.com/" target=3D"_=
+blank"><font face=3D"georgia, serif"><font color=3D"#666666">cinemagraphs</=
+font></font></a><font face=3D"georgia, serif"><font color=3D"#666666">=C2=
+=A0</font></font><span style=3D"border-collapse:collapse"><font face=3D"geo=
+rgia, serif"><font color=3D"#666666"></font></font><span style=3D"border-co=
+llapse:separate"><font face=3D"georgia, serif"><font color=3D"#666666">|=C2=
+=A0</font></font><font face=3D"georgia, serif"><font color=3D"#666666"><a h=
+ref=3D"http://web.stagram.com/n/_frommetoyou/" target=3D"_blank">instagrams=
+</a>=C2=A0|=C2=A0<a href=3D"https://www.facebook.com/AnnStreetStudio?ref=3D=
+hl" target=3D"_blank">facebook</a></font></font></span></span><div><span st=
+yle=3D"border-collapse:collapse"><span style=3D"border-collapse:separate"><=
+font face=3D"georgia, serif"><font color=3D"#666666"><a href=3D"http://web.=
+stagram.com/n/_frommetoyou/" target=3D"_blank"></a></font></font></span><di=
+v><span style=3D"border-collapse:separate"><font face=3D"georgia, serif"><i=
+><font color=3D"#666666">Ann Street Studio</font></i></font></span></div><d=
+iv><span style=3D"border-collapse:separate"><font face=3D"georgia, serif"><=
+i><font color=3D"#666666">139 Fulton Street, Suite 810</font></i></font></s=
+pan></div><div><span style=3D"border-collapse:separate"><font face=3D"georg=
+ia, serif"><i><font color=3D"#666666">New York, NY 10038</font></i></font><=
+/span></div><div><span style=3D"border-collapse:separate"><font face=3D"geo=
+rgia, serif"><font color=3D"#666666">Management=C2=A0</font></font></span><=
+span style=3D"border-collapse:separate"><font face=3D"georgia, serif"><font=
+ color=3D"#666666">|=C2=A0</font></font><font face=3D"georgia, serif"><font=
+ color=3D"#666666"><a href=3D"http://thedigitalbrandarchitects.com/" target=
+=3D"_blank">DBA</a></font></font></span></div><div><span style=3D"border-co=
+llapse:separate"><font face=3D"georgia, serif"><br></font></span></div></sp=
+an></div></div></div></span></span></div></div></div></div>
+</div>
+
+--001a113a8c1ad5b4ff051c0767f0--
